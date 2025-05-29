@@ -49,15 +49,24 @@ cd food
 npm install
 npm start
 
+---
+
+
 👉 Admin Panel
 cd adminpanel
 npm install
 npm start
 
+---
+
+
 🔐 Environment Variables
 Create a .env file in both food/ and adminpanel/ folders:
 REACT_APP_API_URL=http://localhost:8080/api
 REACT_APP_RAZORPAY_KEY=your_razorpay_key
+
+---
+
 
 ✨ Features
 🍱 Browse dishes and categories
@@ -69,6 +78,9 @@ REACT_APP_RAZORPAY_KEY=your_razorpay_key
 🧾 Payment integration with Razorpay
 
 📦 Admin dashboard for managing products and orders
+
+---
+
 
 
 
