@@ -20,6 +20,16 @@
 
 ---
 
+## Screenshots
+*Look*
+![Screenshot (223)](https://github.com/user-attachments/assets/bb26ea76-fd1f-4a16-a8bb-18508c34eefc)
+![Screenshot (219)](https://github.com/user-attachments/assets/ef910ef1-3194-41fa-942a-b6047972ea01)
+![Screenshot (213)](https://github.com/user-attachments/assets/a86a4bda-2948-4d07-b1a8-010e1b714904)
+![Screenshot (218)](https://github.com/user-attachments/assets/6ca6f947-00cb-4d67-be72-1615528e02ef)
+![Screenshot (224)](https://github.com/user-attachments/assets/6e7f7cfc-f663-498c-bffa-44823d1d39d2)
+
+---
+
 ## 📁 Folder Structure
 
 FOODIES/
@@ -78,17 +88,6 @@ REACT_APP_RAZORPAY_KEY=your_razorpay_key
 🧾 Payment integration with Razorpay
 
 📦 Admin dashboard for managing products and orders
-
-
----
-
-## Screenshots
-*Look*
-![Screenshot (223)](https://github.com/user-attachments/assets/bb26ea76-fd1f-4a16-a8bb-18508c34eefc)
-![Screenshot (219)](https://github.com/user-attachments/assets/ef910ef1-3194-41fa-942a-b6047972ea01)
-![Screenshot (213)](https://github.com/user-attachments/assets/a86a4bda-2948-4d07-b1a8-010e1b714904)
-![Screenshot (218)](https://github.com/user-attachments/assets/6ca6f947-00cb-4d67-be72-1615528e02ef)
-![Screenshot (224)](https://github.com/user-attachments/assets/6e7f7cfc-f663-498c-bffa-44823d1d39d2)
 
 
 ---
