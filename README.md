@@ -79,7 +79,11 @@ REACT_APP_RAZORPAY_KEY=your_razorpay_key
 
 📦 Admin dashboard for managing products and orders
 
+
 ---
+
+## Screenshots
+*Look*
 
 
 
