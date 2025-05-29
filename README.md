@@ -37,13 +37,10 @@ FOODIES/
 ### 👉 Backend (Spring Boot)
 ```bash
 cd foodiesapi
-./mvnw spring-boot:run
-
----
+mvn spring-boot:run
 
  or using maven
 mvn spring-boot:run
-
 
 ---
 
