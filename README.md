@@ -39,10 +39,15 @@ FOODIES/
 cd foodiesapi
 ./mvnw spring-boot:run
 
+---
+
  or using maven
 mvn spring-boot:run
 
-👉 Frontend - User App
+
+---
+
+### 👉 Frontend - User App
 cd food
 npm install
 npm start
@@ -68,7 +73,7 @@ REACT_APP_RAZORPAY_KEY=your_razorpay_key
 
 📦 Admin dashboard for managing products and orders
 
-📸 Screenshots
+
 
 
 📜 License
