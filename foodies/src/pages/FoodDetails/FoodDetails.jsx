@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { fetchFoodDetails } from '../../../../adminpanel/src/service/foodService';
+import { fetchFoodDetails } from '../../service/foodService';
 import { toast } from 'react-toastify';
 import { useContext } from 'react';
 import { StoreContext } from '../../context/StoreContext';
