@@ -2,7 +2,7 @@ import { useState } from "react";
 import { createContext } from "react";
 import axios from "axios";
 import { useEffect } from "react";
-import { fetchFoodList } from "../../../adminpanel/src/service/foodService";
+import { fetchFoodList } from "../service/foodService";
 import { addToCart, getCartData, removeQtyFromCart } from "../service/cartService";
 
 export const StoreContext = createContext(null);
